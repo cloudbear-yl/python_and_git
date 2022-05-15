@@ -12,5 +12,5 @@ The task was to try to write out a python code so that I can use Linux to run th
         
     #1 update-minichallenge1
     Allows user to start from cloning their desired repository, checking on git status/log/branch, creating new directory(if need) and new file.
-    After add the file, commit the changes and push to repository.
+    After adding the file, commit the changes and push to repository.
 
